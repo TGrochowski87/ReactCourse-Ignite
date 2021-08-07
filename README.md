@@ -1,3 +1,8 @@
+
+# [App's GitHub Pages site](https://tgrochowski87.github.io/ReactCourse-Ignite/)
+
+### App created with an online React Course by [Dev Ed](https://www.youtube.com/c/DevEd/featured)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
